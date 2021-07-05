@@ -1,4 +1,4 @@
-# ExtractorModeloSybase
+# Extractor Y Compilador de Modelo para Sybase DBs
 Extract DDL from Database and Compile in another
 
 Create a Folder on the same folder where you place the scripts called "Scripts"
